@@ -4,7 +4,7 @@ Learning C
 
 ## Handmade Hero, Intro to C on Windows:
 
-[https://www.youtube.com/watch?v=F3ntGDm6hOs&list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp](https://www.youtube.com/watch?v=ATa_joa6Gzg&list=PLhJr2LOK-xwxQlevIZ97ZABLw72Eu9he7)
+[https://www.youtube.com/watch?v=F3ntGDm6hOs&list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp](https://www.youtube.com/watch?v=F3ntGDm6hOs&list=PLEMXAbCVnmY6RverunClc_DMLNDd3ASRp)
 
 ## Handmade Hero : Probably the most extensive and well done series for programming a game engine, from scratch.
 
@@ -23,7 +23,7 @@ Learning C++
 
 ## Another beginning series on C++
 
-[https://www.youtube.com/watch?v=GMx_G05cqYI&list=PLF541C2C1F671AEF6](https://www.youtube.com/watch?v=tyVhn0FWWB4&list=PL1D10C030FDCE7CE0)
+[https://www.youtube.com/watch?v=GMx_G05cqYI&list=PLF541C2C1F671AEF6](https://www.youtube.com/watch?v=GMx_G05cqYI&list=PLF541C2C1F671AEF6)
 
 
 Open GL Tutorials
